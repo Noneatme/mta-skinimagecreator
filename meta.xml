@@ -1,0 +1,5 @@
+<meta>
+	<oop>true</oop>
+	<script src="cThread.lua" type="client" />
+	<script src="cMain.lua" type="client" />
+</meta>
