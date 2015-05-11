@@ -1,3 +1,11 @@
+--
+-- Created by IntelliJ IDEA.
+-- User: Noneatme
+-- Date: 25.01.2015
+-- Time: 14:33
+-- To change this template use File | Settings | File Templates.
+--
+
 cSkinImageCreator = {};
 
 --[[
